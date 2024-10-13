@@ -21,7 +21,7 @@ This directory includes the following information for each data source:
 - ID
 - Organization Type
 - Description
-- Kinds of Data Available
+- Thematic Focus
 - URL
 - Data Products Available
 - API Access (Yes/No)
